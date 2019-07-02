@@ -1,6 +1,6 @@
 # Code for My Life tech blog 
 
-Headless WordPress blog:
+Headless WordPress blog:   
 The frontend is built with Frontity framework and WordPress works as a headless backend.
 
 ## Frontity framework ##
