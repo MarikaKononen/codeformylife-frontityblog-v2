@@ -1,0 +1,86 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.35.0",
+  "hash": "ac5a1544ea84e67499d3",
+  "publicPath": "/static/",
+  "outputPath": "/Users/marikakononen/Koodaus/KoodausProjektit/GitHub/codeformylife-frontityblog-v2/build/static",
+  "assetsByChunkName": {
+    "codeformylife-frontityblog-v2": "codeformylife-frontityblog-v2.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "codeformylife-frontityblog-v2.module.js",
+      "size": 3211707,
+      "chunks": [
+        "codeformylife-frontityblog-v2"
+      ],
+      "chunkNames": [
+        "codeformylife-frontityblog-v2"
+      ],
+      "emitted": true
+    },
+    {
+      "name": "images/metsa.png",
+      "size": 17345796,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "images/valkoinen-kukka.jpg",
+      "size": 625268,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 18910,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "codeformylife-frontityblog-v2": {
+      "chunks": [
+        "codeformylife-frontityblog-v2"
+      ],
+      "assets": [
+        "codeformylife-frontityblog-v2.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "codeformylife-frontityblog-v2": {
+      "chunks": [
+        "codeformylife-frontityblog-v2"
+      ],
+      "assets": [
+        "codeformylife-frontityblog-v2.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": []
+}
